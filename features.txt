@@ -1,0 +1,15 @@
+general purpose programing language
+scripting language
+opensorce
+easy to learn
+interpreted
+supports oops and pops
+dynamic type 
+portable and platform independent
+scalable
+extensible
+automatic memory management
+
+# app1  2000   20  25
+# app2 1000    30  30
+# app3 3000    10  15
