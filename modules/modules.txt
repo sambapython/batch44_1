@@ -1,0 +1,8 @@
+if you import any file
+['/home/khyaathi-python/pythonexamples/batch44/modules', '/home/khyaathi-python/anaconda2/lib/python27.zip', '/home/khyaathi-python/anaconda2/lib/python2.7', '/home/khyaathi-python/anaconda2/lib/python2.7/plat-linux2', '/home/khyaathi-python/anaconda2/lib/python2.7/lib-tk', '/home/khyaathi-python/anaconda2/lib/python2.7/lib-old', '/home/khyaathi-python/anaconda2/lib/python2.7/lib-dynload', '/home/khyaathi-python/anaconda2/lib/python2.7/site-packages']
+
+first itlook for py/pyc file in sys.path
+
+if it's find only py file in sys.path dir then it will create pyc
+if it's find only py and pyc files in sys.path dir then it will take decission, 	it has to compile the file or not based on the modified date and time of py 	pyc. IF the modified date and time of py> modified date and time of pyc then 	it will recompile the file.
+if it's find only pyc file in sys.path dir then it will take pyc file and proceed
