@@ -51,8 +51,16 @@ f1.fun1()
 from f1 import fun
 fun()
 '''
-
+'''
 import f1
 f1.fun()
 print "a=",f1.a
 f1.fun2()
+'''
+'''
+import module1
+module1.file1.fun()
+'''
+from module1 import file1,file2
+file1.fun()
+file2.fun()
