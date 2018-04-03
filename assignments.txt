@@ -78,6 +78,7 @@ Menu:
 56. WAP to do all stack operations using lists
 57. WAP to do all queue operations using lists
 58. WAP to remove n occurances of specified element from a list
+FROM 59 - 69 belongs to files. should complete with the database also
 59. copy 1 file content in to another file(Take the source and destination file path from the user)
 60. Show the below menu to the user:
      1. Add a row
@@ -220,6 +221,10 @@ conditional statements assignments
 128. WAP to replace last n occurances of given substring with destination string in actual string
 129. WAP to sort the string.
 130. take a coma separated numbers and find out max number.
+131. Read a json file. Try to get the information from the file
+132. Read a yaml file. Try to get the information from the file
+133. Read any image data using Opencv
+
 
 
 
