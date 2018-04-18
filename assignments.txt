@@ -1,3 +1,19 @@
+1.Take the input from the user for(Total number of people, toatl number of busses, Number of seats for bus, adjustfactor). Based on four inputs
+	Deside whether there is sufficient busses or not and give solution for how many extra busses required.
+2.take temp in foreightheat -> celcius
+3. take four number from the user
+    Do the below operations
+    (a+b)**2, (c+d)**3
+    standarddeviation
+    regression
+    factorial of every number
+    find the average
+    find the summation
+4. Take the distance in km
+    show that in cm, meters, in milli meters
+5. Take the size of your hard disk in GB
+     show that in MB, KB, TB, PB
+
 1. write a program to findout 
 2. write a program to chek given substring is there in actual string or not? (search should be case insensitive)
 3. take a number from the user and check whether even or odd
@@ -26,8 +42,7 @@ Menu:
 13. take a string from the user and check contains atleast one chars or not?
 14. take a string from the user and check contains atleast one capital letter or not?
 15. take a string from the user and check contains atleast one small letter or not?
-16. Take the input from the user for(Total number of people, toatl number of busses, Number of seats for bus). Based on the input
-	Deside whether there is sufficient busses or not and give solution for how many extra busses required.
+
 17. Print the first 100 odd numbers
 18. Determine the factors of a number entered  by the user
 19. Play a number guessing game (User enters a guess, you print YES or Higher or Lower)
@@ -204,7 +219,6 @@ make instance iterable and provide the operation sp1+p2, p1-p2. Give your own de
      
 conditional statements assignments
 113. take the number of passengers. number of seats for a bus, howmany busses required to travel
-114. take temp in foreightheat -> celcius
 115. take number from the user decide whether it is evn or odd-> positive number or negative number
 116. take a string from the user print the length. if the user not given anything show an error message
 117. code to perform mathematical operations. take two numbers from the user: 1. add, 2. sub, 3. mul, 4.div, 5.quit
