@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 #from django.http import HttpResponse
-from app1.views import view_users
+from app1.views import view_users, view_home
 '''
 def view_users(request):
 	#return HttpResponse("Hello client. How are you doing!!")
@@ -27,4 +27,5 @@ def view_users(request):
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^users/', view_users),
+    url(r'^home/', view_home),
 ]
