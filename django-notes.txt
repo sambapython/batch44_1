@@ -1,0 +1,18 @@
+khyaathi-python@khyaathipython:~/pythonexamples/batch44$ django-admin startproject proj1
+khyaathi-python@khyaathipython:~/pythonexamples/batch44$ cd proj1/
+khyaathi-python@khyaathipython:~/pythonexamples/batch44/proj1$ python manage.py startapp app1
+khyaathi-python@khyaathipython:~/pythonexamples/batch44/proj1$ python manage.py runserver
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+
+April 18, 2018 - 02:11:01
+Django version 1.11.10, using settings 'proj1.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+Open web browser and goto the url: http://127.0.0.1:8000/
+
